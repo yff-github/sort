@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include"aaa.h"
 #include<stdlib.h>
+//github
 
 int* p = (int*)malloc(sizeof(int) * 10);
 int main()
