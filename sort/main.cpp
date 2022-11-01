@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include"aaa.h"
 #include<stdlib.h>
+//github
 
 int* p = (int*)malloc(sizeof(int) * 10);
 int main()
@@ -11,6 +12,5 @@ int main()
 	print1(a);
 	kuaisu(a);
 	print1(a);
-
 	return 0;
 }
